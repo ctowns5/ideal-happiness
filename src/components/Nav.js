@@ -6,16 +6,16 @@ function Nav() {
   return (
     <ul className="nav nav-tabs">
       <Link to={"/"} className="nav-item" style={{ marginRight: "2rem" }}>
-        Home
+        About Me
       </Link>
-      <Link to={"/blog"} className="nav-item" style={{ marginRight: "2rem" }}>
-        Blog
+      <Link to={"/Portfolio"} className="nav-item" style={{ marginRight: "2rem" }}>
+        Portfolio
       </Link>
-      <Link to={"/about"} className="nav-item" style={{ marginRight: "2rem" }}>
-        About
+      <Link to={"/Resume"} className="nav-item" style={{ marginRight: "2rem" }}>
+        Resume
       </Link>
       <Link
-        to={"/contact"}
+        to={"/Contact"}
         className="nav-item"
         style={{ marginRight: "2rem" }}
       >

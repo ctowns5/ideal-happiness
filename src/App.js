@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Home from "./pages/Home";
-import Blog from "./pages/Blog";
+import AboutMe from "./pages/AboutMe";
+import Portfolio from "./pages/Portfolio";
 import Nav from "./components/Nav";
-import About from "./pages/About";
+import Resume from "./pages/Resume";
 import Contact from "./pages/Contact";
 
 function App() {
@@ -12,10 +12,10 @@ function App() {
         <div className="container">
           <Nav />
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/blog" element={<Blog />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/contact" element={<Contact />} />
+            <Route path="/" element={<AboutMe />} />
+            <Route path="/Portfolio" element={<Portfolio />} />
+            <Route path="/Resume" element={<Resume />} />
+            <Route path="/Contact" element={<Contact />} />
           </Routes>
         </div>
       </div>
