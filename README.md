@@ -34,4 +34,4 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Screenshot of the application
-   ![application](/public/portfolio.png)
+   ![application](/src/assets/portfolio.png)
