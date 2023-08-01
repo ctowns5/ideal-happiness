@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ideal-happiness/static/css/main.3831e293.css",
+    "main.js": "/ideal-happiness/static/js/main.47694c28.js",
+    "static/media/me-sm.jpg": "/ideal-happiness/static/media/me-sm.ab2891d7e115c6d6d693.jpg",
+    "index.html": "/ideal-happiness/index.html",
+    "main.3831e293.css.map": "/ideal-happiness/static/css/main.3831e293.css.map",
+    "main.47694c28.js.map": "/ideal-happiness/static/js/main.47694c28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3831e293.css",
+    "static/js/main.47694c28.js"
+  ]
+}
