@@ -1,3 +1,6 @@
+import phone from "../assets/phone.png"
+import email from "../assets/email.jpg"
+
 import "./contact.css"
 import { useRef, useState } from "react";
 import emailjs from '@emailjs/browser';
@@ -26,11 +29,11 @@ export default function Contact() {
             <h1 className="c-title">Get in touch!</h1>
             <div className="c-info">
                 <div className="c-info-item">
-                  <img src="/phone.png"alt="phone"className="c-icon"
+                  <img src={phone}alt="phone"className="c-icon"
                   />+1 303 378 0445
                 </div>
                 <div className="c-info-item">
-                  <img src="/email.jpg"alt="email"className="c-icon"
+                  <img src={email}alt="email"className="c-icon"
                   />ctowns5@proton.me
                 </div>
             </div>

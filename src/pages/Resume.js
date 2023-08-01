@@ -1,4 +1,4 @@
-const resume = 'ChrisTownsendResume.pdf'
+import resume from "../assets/ChrisTownsendResume.pdf"
 
 export default function Resume() {
   const downloadFileAtURL=(url)=>{
