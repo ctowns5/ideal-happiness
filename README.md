@@ -35,3 +35,7 @@
   
   ## Screenshot of the application
    ![application](/src/assets/portfolio.png)
+
+   ### link to deployed application: https://ctowns5.github.io/ideal-happiness/#/
+
+   ### link to github repository: https://github.com/ctowns5/ideal-happiness
