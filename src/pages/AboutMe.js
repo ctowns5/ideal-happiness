@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-      <h1>About Me</h1>
+      <h1>Chris Townsend</h1>
       <section className="card1">
           <img className="p2img" src="me-sm.jpg" alt="Chris Townsend"/>
           <p>
