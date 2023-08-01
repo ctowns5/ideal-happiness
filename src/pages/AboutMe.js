@@ -3,7 +3,6 @@ export default function Home() {
     <div>
       <h1>About Me</h1>
       <section className="card1">
-          <header>About Me</header>
           <img className="p2img" src="me-sm.jpg" alt="Chris Townsend"/>
           <p>
       My name is Chris Townsend, I have many years of experience in the

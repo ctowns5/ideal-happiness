@@ -83,6 +83,9 @@
 .nav-item:hover {
   color: #5f2222;
 }
+.active {
+  color: #5f2222;
+}
 .p1img {
   height: 250px;
   width: 300px;

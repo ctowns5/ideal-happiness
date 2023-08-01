@@ -8,6 +8,7 @@ export default function Contact() {
   const [done, setDone] = useState(false);
   const handleSubmit = (e)=>{
     e.preventDefault()
+    //email validation
     emailjs.sendForm('service_5a0ucka', 'template_2zwsfgu', formRef.current, 'fMU992mpFSGiQa473')
       .then((result) => {
           console.log(result.text);
@@ -44,7 +45,7 @@ export default function Contact() {
               <input type="text" placeholder="Email" name="user_email" />
               <textarea rows="5" placeholder="Message" name="message" />
               <button>Submit</button>
-              {done && "Thank you"}
+              {done && "Thank you, your message has been sent."}
             </form>
           
           </div>
