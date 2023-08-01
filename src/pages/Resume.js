@@ -1,4 +1,4 @@
-const resume = 'http:localhost:3000/ChrisTownsendResume.pdf'
+const resume = 'ChrisTownsendResume.pdf'
 
 export default function Resume() {
   const downloadFileAtURL=(url)=>{
