@@ -1,4 +1,5 @@
 import me from "../assets/me-sm.jpg"
+import dubc from "../assets/dubc.png"
 export default function Home() {
   return (
     <div>
@@ -10,10 +11,10 @@ export default function Home() {
           conferencing / unified communications industry as a field service
           engineer and a solutions consultant. I recently completed a coding
           bootcamp at the University of Denver and am now seeking employment as
-          a junior developer.
+          a junior full stack developer.
       </p>
         </section>
-      
+        <img className="p1img" src={dubc}alt="bootcamp badge" />
       
     </div>
   );
