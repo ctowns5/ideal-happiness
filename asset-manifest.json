@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/ideal-happiness/static/css/main.3831e293.css",
-    "main.js": "/ideal-happiness/static/js/main.27ee26cf.js",
+    "main.js": "/ideal-happiness/static/js/main.3ddc9ba6.js",
     "static/media/project1.png": "/ideal-happiness/static/media/project1.ef5ad8cb8a1005e8cbe2.png",
     "static/media/hottakes.jpg": "/ideal-happiness/static/media/hottakes.71ac0c2a6330af15493a.jpg",
     "static/media/ChrisTownsendResume.pdf": "/ideal-happiness/static/media/ChrisTownsendResume.0263c60d31725e07daaa.pdf",
+    "static/media/dubc.png": "/ideal-happiness/static/media/dubc.ee2f8294a63e0f64b544.png",
     "static/media/startpage.png": "/ideal-happiness/static/media/startpage.529cfe3d5ca6187be4b7.png",
     "static/media/josdept.jpg": "/ideal-happiness/static/media/josdept.04e810b2fc2709e58d9f.jpg",
     "static/media/jate.jpg": "/ideal-happiness/static/media/jate.cad71132b5176a376262.jpg",
@@ -12,10 +13,10 @@
     "static/media/email.jpg": "/ideal-happiness/static/media/email.ce11c7bb9738bac0a21b.jpg",
     "index.html": "/ideal-happiness/index.html",
     "main.3831e293.css.map": "/ideal-happiness/static/css/main.3831e293.css.map",
-    "main.27ee26cf.js.map": "/ideal-happiness/static/js/main.27ee26cf.js.map"
+    "main.3ddc9ba6.js.map": "/ideal-happiness/static/js/main.3ddc9ba6.js.map"
   },
   "entrypoints": [
     "static/css/main.3831e293.css",
-    "static/js/main.27ee26cf.js"
+    "static/js/main.3ddc9ba6.js"
   ]
 }
